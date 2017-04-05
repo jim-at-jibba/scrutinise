@@ -29,7 +29,7 @@ of the time.
 * `variantLookUp` - a lookup table that replaces variantIds with labels for clearer ga reporting.
 
 ### Add your changes and variants to this object
- ```$xslt
+ ```
 changes = {
   0: {
     variants: {
